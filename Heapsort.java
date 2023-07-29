@@ -1,6 +1,5 @@
 public class Heapsort {
     public static void main(String[] args) {
-//        int[] arr = {110, 24, 98, 2, 1, 5, 8, 58, 1, 55, -6};
 
 
         int n = 10;
